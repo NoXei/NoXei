@@ -5,7 +5,7 @@
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=1337+Student+%7C+C%2FC%2B%2B+Enthusiast;Cybersecurity+Explorer;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=1337+Student;Cybersecurity+Explorer;Always+Learning+%26+Building" />
 </p>
 
 <!-- BADGES -->

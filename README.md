@@ -44,10 +44,10 @@
 ## 📫 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/taha-lasfar-a9422a242/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF7F?style=for-the-badge&logo=linkedin&logoColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
   </a>
   <a href="mailto:tahalasfar5544@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00FF7F" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
   </a>
 </p>
 

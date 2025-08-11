@@ -24,7 +24,6 @@
 - **Current Focus:** Final Common Core Project — *Transcendence*  
 - **Learning:** Penetration Testing (PortSwigger), Advanced C++ Patterns  
 - **Loves:** Cybersecurity, Low-level Programming, Problem Solving  
-- **Quote:** *Keep Learning. Keep Building. Stay 1337.*  
 
 ---
 

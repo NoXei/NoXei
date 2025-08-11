@@ -10,12 +10,11 @@
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/School-1337-%2300FF7F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-C%2FC%2B%2B-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=00FF7F" />
-  <img src="https://img.shields.io/badge/Loves-Cybersecurity-1a1a1a?style=for-the-badge&logo=hackaday&logoColor=00FF7F" />
-  <img src="https://img.shields.io/badge/OS-Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/School-1337-1a1a1a?style=for-the-badge&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
+  <img src="https://img.shields.io/badge/Focus-C%2FC%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
+  <img src="https://img.shields.io/badge/Loves-Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
+  <img src="https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
 </p>
-
 ---
 
 ## 🚀 About Me

@@ -1,25 +1,30 @@
-<!-- Header -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=1337+Student;C%2FC%2B%2B+Enthusiast;Cybersecurity+Explorer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header&text=Hey,+I'm+Taha+👋&fontSize=40&fontColor=1a1a1a&animation=twinkling" />
 </p>
 
-<!-- Title -->
-<h1 align="center">Hi, I'm <span style="color:#00FF7F;">Taha</span> 👋</h1>
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=1337+Student+%7C+C%2FC%2B%2B+Enthusiast;Cybersecurity+Explorer;Always+Learning+%26+Building" />
+</p>
 
-<!-- Badges -->
+<!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/School-1337-%2300FF7F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-C%2FC%2B%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Loves-Cybersecurity-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-Linux-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-C%2FC%2B%2B-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/Loves-Cybersecurity-1a1a1a?style=for-the-badge&logo=hackaday&logoColor=00FF7F" />
+  <img src="https://img.shields.io/badge/OS-Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=00FF7F" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 1337 Student — part of the **42 Network**  
-- 🖥 Currently working on **transcendence** my last common-core project  
-- 🔐 Learning penetration testing on PortSwigger  
+- **Name:** Taha Lasfar  
+- **School:** 1337 (42 Network)  
+- **Current Focus:** Final Common Core Project — *Transcendence*  
+- **Learning:** Penetration Testing (PortSwigger), Advanced C++ Patterns  
+- **Loves:** Cybersecurity, Low-level Programming, Problem Solving  
+- **Quote:** *Keep Learning. Keep Building. Stay 1337.*  
 
 ---
 
@@ -30,26 +35,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoXei&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoXei&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NoXei&theme=tokyonight&hide_border=true&ring=00FF7F&currStreakLabel=00FF7F" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoXei&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF7F" height="150"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/taha-lasfar-a9422a242/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF7F?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-00FF7F?style=for-the-badge&logo=linkedin&logoColor=1a1a1a" />
   </a>
   <a href="mailto:tahalasfar5544@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00FF7F" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Keep+Learning;Keep+Building;Stay+1337" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer" />
 </p>

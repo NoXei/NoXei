@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header&text=Hey,+I'm+Taha+👋&fontSize=40&fontColor=1a1a1a&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header&text=Hey,+I'm+Taha+👋👨🏻‍💻&fontSize=40&fontColor=1a1a1a&animation=twinkling" />
 </p>
 
 <!-- Typing Intro -->

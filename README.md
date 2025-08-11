@@ -21,7 +21,7 @@
 - **Name:** Taha Lasfar  
 - **School:** 1337 (42 Network)  
 - **Current Focus:** Final Common Core Project — *Transcendence*  
-- **Learning:** Penetration Testing (PortSwigger), Advanced C++ Patterns  
+- **Learning:** Penetration Testing (PortSwigger)  
 - **Loves:** Cybersecurity, Low-level Programming, Problem Solving  
 
 ---

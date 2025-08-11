@@ -11,7 +11,6 @@
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/School-1337-000000?style=for-the-badge&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
-  <img src="https://img.shields.io/badge/Learning-Cybersecurity%20%26%20C%2B%2B-000000?style=for-the-badge&logo=book&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
   <img src="https://img.shields.io/badge/Loves-Problem%20Solving-000000?style=for-the-badge&logo=hackaday&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
   <img src="https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF7F&color=000000&labelColor=000000&border=00FF7F" />
 </p>
